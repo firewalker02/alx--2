@@ -1,7 +1,5 @@
 # 0x13, More singly linked lists
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
-
 ## This folder contains the project "0x13 More singly linked lists" and associated tasks:
 0. Print list 0-print_listint.c
 	* Write a function that prints all the elements of a listint_t list.
