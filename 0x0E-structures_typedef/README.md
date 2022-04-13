@@ -1,6 +1,5 @@
 # 0x0E, Structures, typedef in C Programming
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project "0x0E-structures, typedef" and associated tasks:
 0. Django - dog.h
