@@ -1,6 +1,5 @@
 # 0x12, Singly linked lists
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project "0x12 Singly linked lists" and associated tasks:
 0. Print list - 0-print_list.c
