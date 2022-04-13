@@ -1,8 +1,4 @@
 # 0x1A C-Hash tables
-
-[Holberton School C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
-
-## This folder contains the project 0x1A C - Hash tables, and it's associated tasks:
 0.  >>> ht = {} - 0-hash_table_create.c
 	* Write a function that creates a hash table.
 		* Prototype: hash_table_t *hash_table_create(unsigned long int size);
@@ -12,7 +8,7 @@
 1. djb2 - 1-djb2.c
 	* Write a hash function implementing the djb2 algorithm.
 		* Prototype: unsigned long int hash_djb2(const unsigned char *str);
-    * You are allowed to copy and paste the function from [this page](https://gist.github.com/papamuziko/7bb52dfbb859fdffc4bd0f95b76f71e8)
+    * You are allowed to copy and paste the function from 
 2. key -> index - 2-key_index.c
 	* Write a function that gives you the index of a key.
 		* Prototype: unsigned long int key_index(const unsigned char *key, unsigned long int size);
@@ -45,5 +41,4 @@
 		* If ht is NULL, dont print anything
 6. >>> del ht - 6-hash_table_delete.c
 	* Write a function that deletes a hash table.
-		* Prototype: void hash_table_delete(hash_table_t *ht);
-			* where ht is the hash table
+		
