@@ -1,6 +1,5 @@
 # Project 0x0D, Preprocessor in C Programming
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project "0x0D-preprocessor" and associated tasks:
 0. Object like macro - 0-object_like_macro.h
