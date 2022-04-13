@@ -1,6 +1,4 @@
-# Project 0x15, File I/O
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project "0x15-File I/O" and associated tasks:
 0. Tread lightly, she is near - 0-read_textfile.c
