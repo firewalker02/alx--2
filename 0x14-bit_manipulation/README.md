@@ -1,7 +1,4 @@
 # Project 0x14, Bit manipulation
-
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
-
 ## This folder contains the project "0x14-Bit manipulation" and associated tasks:
 0. 0 0-binary_to_uint.c
 	* Write a function that converts a binary number to an unsigned int.
