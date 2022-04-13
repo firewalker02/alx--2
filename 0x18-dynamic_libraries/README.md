@@ -1,10 +1,8 @@
 # 0x18 C Dynamic Libraries
 
-[Holberton School C Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project 0x18-Dynamic libraries and it's associated tasks:
-0. A library is not a luxury but one of the necessities of life -libholberton.so, holberton.h
-	* Create the dynamic library libholberton.so containing all the functions listed below:
+	
 		* int _putchar(char c);
 		* int _islower(int c);
 		* int _isalpha(int c);
@@ -29,4 +27,4 @@
 	* Create a script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
 2. Either write something worth reading or do something worth writing -blog post
 	* Write a blog post describing the differences between static and dynamic libraries.
-		* Completed blog post [here](https://www.linkedin.com/in/jill-rogers-ba29313a/)
+		* Completed blog 
