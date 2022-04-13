@@ -1,6 +1,5 @@
 # 0x10, Variadic functions in C Programming
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
 
 ## This folder contains the project "0x10 Variadic functions" and associated tasks:
 0. Beauty is variable, ugliness is constant - 0-sum_them_all.c
