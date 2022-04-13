@@ -1,7 +1,5 @@
 # 0x0F, Function pointers in C Programming
 
-[Holberton C-Programming Projects](https://github.com/Jilroge7/holbertonschool-low_level_programming.git)
-
 ## This folder contains the project "0x0F Function pointers" and associated tasks:
 0. What's my name - 0-print_name.c
 	* Write a function that prints a name. 
